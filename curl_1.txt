@@ -1,0 +1,1114 @@
+curl https://russia.com -u sk_live_cbadb257a512370c398f2e032aa0d72b:
+<script>window.location.assign('http://russia.com/index/')</script>http://russia.com/index/
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>
+         Yekaterinburg – Where to stay- Your adventure begins here      </title>
+<link rel="shortcut icon" href="https://russia.com/wp-content/themes/london/images/favicon.png" />
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Source+Serif+Pro:400,600,700" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="https://russia.com/wp-content/themes/london/style.css">
+<!--[if lt IE 9]>
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+<script type="text/javascript">
+         var templateURL = 'http://russia.com/wp-content/themes/london/';
+      </script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+<script type="text/javascript">
+function display_alert(){
+  alert("I am an alert box!!");
+  document.getElementById('seach_en').focus();
+}
+</script>
+<link rel="alternate" hreflang="en" href="https://russia.com" />
+<link rel="alternate" hreflang="sc" href="https://russia.com/sc/" />
+
+<meta name="description" content="Your adventure begins here" />
+<link rel="canonical" href="https://russia.com/" />
+<link rel="next" href="https://russia.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="russia.com - Your adventure begins here" />
+<meta property="og:description" content="Your adventure begins here" />
+<meta property="og:url" content="http://russia.com/" />
+<meta property="og:site_name" content="russia.com" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Your adventure begins here" />
+<meta name="twitter:title" content="russia.com - Your adventure begins here" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/russia.com\/","name":"russia.com","potentialAction":{"@type":"SearchAction","target":"http:\/\/russia.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+<link rel='dns-prefetch' href='//russia.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/russia.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"http:\/\/russia.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='cbadb257a512370c398f2e032aa0d72b' async='async'>
+</script>
+
+<meta name='shareaholic:site_name' content='russia.com' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:article_visibility' content='private' />
+<meta name='shareaholic:site_id' content='cbadb257a512370c398f2e032aa0d72b' />
+<meta name='shareaholic:wp_version' content='7.8.0.6' />
+
+<link rel='stylesheet' id='yarppWidgetCss-css' href="https://russia.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css" type='text/css' media='all' />
+<link rel='stylesheet' id='ajax-load-more-css' href="https://russia.com/wp-content/plugins/ajax-load-more/core/dist/css/ajax-load-more.min.css" type='text/css' media='all' />
+<link rel='stylesheet' id='my-above-the-fold-css-css' href="https://russia.com/wp-content/plugins/my-above-the-fold-css/public/css/my-above-the-fold-css-public.css" type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css' href="https://russia.com/wp-content/plugins/taxonomy-images/css/style.css" type='text/css' media='screen' />
+<link rel='stylesheet' id='wpcloudy-css' href="https://russia.com/wp-content/plugins/wp-cloudy/css/wpcloudy.min.css" type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href="https://russia.com/wp-includes/css/dashicons.min.css" type='text/css' media='all' />
+<link rel='stylesheet' id='themify-css' href="https://russia.com/wp-content/plugins/wp-menu-icons/icons/themify/themify-icons.min.css" type='text/css' media='all' />
+<link rel='stylesheet' id='wpmi-icons-css' href="https://russia.com/wp-content/plugins/wp-menu-icons/assets/css/wpmi.css" type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='//russia.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-subscription-css' href="https://russia.com/wp-content/plugins/newsletter/subscription/style.css" type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href="https://russia.com/wp-content/plugins/wp-menu-icons/icons/fontawesome/css/font-awesome.min.css" type='text/css' media='all' />
+<link rel='stylesheet' id='yelp-reviews-css' href="https://russia.com/wp-content/plugins/yelp-reviews-pro/lib/css/yelp-reviews.css" type='text/css' media='all' />
+<style>
+                        /* Accessible for screen readers but hidden from view */
+                        .fa-hidden { position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden; }
+                        .rtl .fa-hidden { left:10000px; }
+                        .fa-showtext { margin-right: 5px; }
+                </style>
+<script type='text/javascript' src="https://russia.com/wp-includes/js/jquery/jquery.js"></script>
+<script type='text/javascript' src="https://russia.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type='text/javascript' src="https://russia.com/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src="https://russia.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js"></script>
+<script type='text/javascript' src="https://russia.com/wp-content/plugins/my-above-the-fold-css/public/js/my-above-the-fold-css-public.js"></script>
+<link rel='https://api.w.org/' href="https://russia.com/wp-json/" />
+<meta name="generator" content="WPML ver:4.4.9 stt:1,64;" />
+<link rel="icon" href="https://russia.com/wp-content/uploads/2017/06/cropped-logo-london-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://russia.com/wp-content/uploads/2017/06/cropped-logo-london-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://russia.com/wp-content/uploads/2017/06/cropped-logo-london-180x180.png" />
+<meta name="msapplication-TileImage" content="http://russia.com/wp-content/uploads/2017/06/cropped-logo-london-270x270.png" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4YSYR4FPFR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4YSYR4FPFR');
+</script>
+</head>
+<style>
+
+.fa-2x {
+    font-size: 1em!important;
+}
+
+header {
+}
+
+header .menu {
+}
+
+header .menu ul a:focus, header .menu ul a:hover {
+    /* color: #e2ed3e; */
+}
+
+#menu-trigger+label span {
+    display: inline-block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: #000000;
+    -webkit-transition: all .25s ease-out;
+    transition: all .25s ease-out;
+}
+
+header .menu ul a {
+
+}
+
+.lifestyle a:hover{
+        color: #c517c0!important;
+}
+
+.travel a:hover{
+        color: #fa6200!important;
+}
+
+.sport a:hover{
+        color: #6fb43f!important;
+}
+
+.culture a:hover{
+        color: #f9bc04!important;
+}
+
+.business a:hover{
+        color: #31c0ff!important;
+}
+
+body.single-post .post-body a {
+    color: #e49d00!important;
+}
+
+b, strong {
+    font-weight: 700;
+    color: #b6231f;
+}
+
+p {
+    text-align: justify;
+}
+
+.page-title, .section-title {
+    color: #b6231f!important;
+}
+
+.page-title::after, .section-title::after {
+    background: #b6231f!important;
+}
+
+#menu-footer-menu li a {
+    color: #b6231f!important;
+    text-transform: uppercase;
+}
+
+footer .menu li a {
+    color: #b6231f!important;
+}
+
+footer .menu#social-media li a {
+    border: solid 2px #b6231f!important;
+}
+
+footer .menu#social-media li a:focus, footer .menu#social-media li a:hover {
+    background: #b6231f!important;
+}
+
+body.home .section-menu a {
+    color: #b6231f!important;
+    text-transform: uppercase;
+}
+
+body.home .section-menu a::after {
+    background: #b6231f!important;
+}
+
+.footer-menu{
+        display: none!important;
+}
+
+body.home section#sports h3 {
+    font-size: 17px!important;
+    font-weight: 700;
+    color: #b6231f;
+}
+
+@media (min-width: 480px){
+
+body.home section#sports .item h3 {
+font-size: 17px;
+}
+
+}
+
+@media screen and (min-width: 768px){
+
+
+
+.yelpcontent {
+    float: left;
+    width: 100%!important;
+    /* width: 1170px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shortcode-yelp-reviews li.yelp-col3 {
+    width: 33%!important;
+}
+}
+
+.njt-yelp-main.njt-yelp-main-b .yelp-thumbnail {
+    height: 240px!important;
+    text-align: -webkit-center;
+}
+
+ul.shortcode-yelp-reviews.shortcode-yelp-reviews-search .yelp-thumbnail img, .njt-yelp-main.njt-yelp-main-b .yelp-thumbnail img {
+    width: auto!important;
+    height: 100%!important;
+}
+
+.shortcode-yelp-reviews li.yelp-col3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body.single-post .prev-next{
+        display: none;
+}
+
+header a.logo {
+        width: 100px;
+        height: 35px;
+        margin-top: 10px;
+}
+
+
+
+@media (min-width: 480px){
+        header a.logo {
+            width: 100px;
+            height: 35px;
+            -webkit-transition-delay: 0;
+            transition-delay: 0;
+        }
+}
+
+@media (min-width: 480px){
+        header a.logo {
+            width: 100px;
+            height: 35px;
+            -webkit-transition-delay: 0;
+            transition-delay: 0;
+        }
+}
+
+@media (min-width: 768px){
+        header a.logo {
+            width: 120px;
+            height: 42px;
+            margin-top: -6px;
+        }
+
+        header .menu ul.main-menu>li {
+            display: inline-block;
+            vertical-align: middle;
+            margin: 0 .5em;
+            font-size: 14px;
+        }
+
+}
+
+@media (min-width: 992px){
+        header a.logo {
+                width: 200px;
+            height: 71px;
+            margin-top: 0px;
+        }
+
+
+        body.page-template-page-about .text-container>* {
+            font-size: 1.025em;
+        }
+
+        header .menu ul.main-menu>li {
+            font-size: 14px;
+        }
+
+        header .menu ul.main-menu>li {
+            margin-top: 0px;
+            margin-right: 0.5em!important;
+            margin-bottom: 0px;
+            margin-left: 0.5em!important;
+
+
+}
+@media (min-width: 1200px){
+
+        header a.logo {
+            width: 260px;
+            height: 92px;
+            margin-top: 10px;
+        }
+
+        header .menu ul.main-menu>li {
+            font-size: 14px;
+        }
+
+        body.page-template-page-terms .text-container {
+                    font-size: 1.025em;
+        }
+}
+
+.language-switcher {
+    margin: 0 0 0 0!important;
+}
+</style>
+<body class="home blog">
+<header>
+<a class="logo" href="https://russia.com" style="background-image: url(http://russia.com/wp-content/themes/london/images/logo-london.png);"></a>
+<input type="checkbox" id="menu-trigger" />
+<label for="menu-trigger">
+<span></span>
+<span></span>
+<span></span>
+</label>
+<div class="menu">
+<nav class="menu-new-menu-container"><ul id="menu-new-menu" class="main-menu"><li id="menu-item-17825" class="home menu-item menu-item-type-custom menu-item-object-custom menu-item-17825"><a href="https://russia.com/index/">Home</a></li>
+<li id="menu-item-17813" class="culture menu-item menu-item-type-post_type menu-item-object-page menu-item-17813"><a href="https://russia.com/essentials/">Essentials</a></li>
+<li id="menu-item-21371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21371"><a href="https://russia.com/exploring-russia/">Exploring Russia</a></li>
+<li id="menu-item-17672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17672"><a href="https://russia.com/irkutsk/">Irkutsk</a></li>
+<li id="menu-item-21372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21372"><a href="https://russia.com/kazan/">Kazan</a></li>
+<li id="menu-item-21373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21373"><a href="https://russia.com/moscow/">Moscow</a></li>
+<li id="menu-item-17815" class="sport menu-item menu-item-type-post_type menu-item-object-page menu-item-17815"><a href="https://russia.com/novgorod/">Novgorod</a></li>
+<li id="menu-item-17671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17671"><a href="https://russia.com/sochi/">Sochi</a></li>
+<li id="menu-item-17670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17670"><a href="https://russia.com/st-petersburg/">St. Petersburg</a></li>
+<li id="menu-item-18416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18416"><a href="https://russia.com/yekaterinburg/">Yekaterinburg</a></li>
+<li id="menu-item-17842" class="menu-item menu-item-type-custom menu-item-object-custom social-icon facebook menu-item-17842"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//russia.com"><i class='fa-2x fa fa-facebook '></i><span class='fa-hidden'>Facebook</span></a></li>
+<li id="menu-item-17843" class="menu-item menu-item-type-custom menu-item-object-custom social-icon twitter menu-item-17843"><a href="https://twitter.com/home?status=http%3A//russia.com"><i class='fa-2x fa fa-twitter '></i><span class='fa-hidden'>Twitter</span></a></li>
+</ul></nav> <div class="footer-menu">
+<nav class="menu-footer-menu-container"><ul id="menu-footer-menu" class="main-menu"><li id="menu-item-4622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4622"><a href="https://russia.com/about/">About</a></li>
+<li id="menu-item-5843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5843"><a href="https://russia.com/partnership/">Partnership</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://russia.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://russia.com/privacy-policy/">Privacy Policy</a></li>
+</ul></nav> </div>
+
+<div class="language-switcher"><img src="https://russia.com/wp-content/uploads/flags/php7AeDGL" height="12" alt="en" width="28" /><a href="https://russia.com/sc/"><img src="https://russia.com/wp-content/uploads/flags/phpva6HKI" height="12" alt="sc" width="28" /></a></div> </div>
+</header>
+<div class="site-content">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript">
+function scrollto(id) {
+        var etop = $('#' + id).offset().top - 250;
+        $('html, body').animate({
+          scrollTop: etop
+        }, 1000);
+}
+</script>
+<div class="landing-cover" style="background-image:url();">
+<div class="tagline-container">
+<h1></h1>
+<p></p>
+</div>
+</div>
+<div class="section-menu" id="sectionmenu">
+<i class="fa fa-angle-left prev disabled" aria-hidden="true"></i>
+<i class="fa fa-angle-right next" aria-hidden="true"></i>
+<div class="container">
+<nav class="navigation" id="mainNav">
+<a href="#area" onclick="scrollto('area');return false;" class="active"></a>
+<a href="#interests" onclick="scrollto('interests');return false;"></a>
+<a href="#sights" onclick="scrollto('sights');return false;"></a>
+<a href="#restaurants" onclick="scrollto('restaurants');return false;"></a>
+<a href="#sports" onclick="scrollto('sports');return false;"></a>
+<a href="#googlemap" onclick="scrollto('googlemap');return false;">Locations</a>
+<a href="#discover-london" onclick="scrollto('discover-london');return false;">CONNECT TO YOUR WORLD</a>
+</nav>
+</div>
+</div>
+<style>
+
+
+.footer-menu{
+        display: none;
+}
+
+.amobile {
+    position: relative;
+    margin: 1em -8px;
+    height: 420px;
+    text-align: center;
+}
+
+.adesktop {
+    position: relative;
+    display: none;
+    margin: -8px;
+    height: 350px;
+    text-align: center;
+}
+
+body.home section#area .item .content .text-container p {
+    text-align: center;
+}
+
+
+@media (min-width: 768px){
+
+.adesktop {
+    display: block;
+}
+.amobile {
+    display: none;
+}
+
+}
+
+body.home .tagline-container p {
+    text-align: center;
+}
+.bx-next{
+        display: none;
+}
+
+.bx-prev{
+        display: none;
+}
+</style>
+
+<section class="page-section" id="area" name="area">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"></h2>
+</div>
+</div>
+
+<div class="last row">
+<div class="ad-banner-container col-md-12">
+<div class="mobile">
+
+</div>
+<div class="desktop">
+
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" id="interests" name="interests">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"></h2>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="last row">
+</div>
+</div>
+</section>
+<section class="page-section" id="sights" name="sights">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"></h2>
+</div>
+</div>
+<div class="last row">
+</div>
+</div>
+</section>
+<section class="page-section" id="restaurants" name="restaurants">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"></h2>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="last row">
+</div>
+</div>
+</section>
+<section class="page-section" id="sports" name="sports">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"></h2>
+</div>
+</div>
+<div class="last row">
+</div>
+</div>
+</section>
+<section class="page-section" id="googlemap" name="googlemap">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+</div>
+<div class="last row">
+</div>
+</div>
+</section>
+<section class="page-section" id="discover-london" name="discover-london">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<style>
+
+.world-map-icon-div {
+        padding: 80px 0 120px 0;
+}
+
+.world-map-icon-para {
+        padding-bottom: 40px;
+        width: 90%;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.world_title {
+    text-align: center;
+    font-size: 40px;
+    color: #f04f50;
+    letter-spacing: 2px;
+    font-family: 'HelveticaNeue-Thin';
+    font-weight: 300;
+}
+
+.world_msg {
+        padding: 40px 60px;
+    margin-top: 20px;
+    text-align: center;
+
+    letter-spacing: 0.5px !important;
+    width: auto;
+    margin-left: auto !Important;
+    margin-right: auto !important;
+
+
+    font-family: Source Sans Pro,sans-serif !important;
+    font-size: 15px;
+    line-height: 25px;
+    color: #333;
+}
+
+.world-map-icon-inner {
+        display: block;
+        padding: 0px 100px 0px 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.world_map_icon {
+        display: inline-block;
+        margin-left: 10px;
+    width: 15%;
+
+}
+
+.world_map_icon_2 {
+        display: inline-block;
+
+}
+
+.world_map_icon img{
+        width: 100%;
+}
+
+.world_map_icon_2 img{
+        width: 100%;
+}
+
+
+@media only screen and (min-width: 1300px){
+        .world-map-icon-inner {
+                padding: 0px 30px 0px 30px;
+        }
+        .world_map_icon {
+                margin-left: 5px;
+        }
+        .world_map_icon_2 {
+                margin-left: 18px;
+        margin-right: 18px;
+                margin-bottom: 25px;
+                max-width: 134px;
+        }
+}
+
+@media only screen and (max-width: 1300px){
+        .world-map-icon-inner {
+                padding: 0px 30px 0px 30px;
+        }
+        .world_map_icon {
+                margin-left: 5px;
+        }
+        .world_map_icon_2 {
+                margin-left: 18px;
+        margin-right: 18px;
+                margin-bottom: 25px;
+                max-width: 134px;
+        }
+}
+
+
+@media only screen and (max-width: 1150px){
+        .world-map-icon-inner {
+                padding: 0px 30px 0px 30px;
+        }
+        .world_map_icon {
+                margin-left: 5px;
+        }
+        .world_map_icon_2 {
+                margin-left: 12px;
+        margin-right: 12px;
+                margin-bottom: 23px;
+                max-width: 134px;
+        }
+}
+
+
+
+
+
+@media only screen and (max-width: 1024px){
+        .world-map-icon-inner {
+                padding: 0px 30px 0px 30px;
+        }
+        .world_map_icon {
+                margin-left: 5px;
+        }
+        .world_map_icon_2 {
+                margin-left: 10px;
+        margin-right: 10px;
+                margin-bottom: 20px;
+                max-width: 140px;
+        }
+
+}
+
+
+@media only screen and (max-width: 768px){
+        .world-map-icon-inner {
+                padding: 0px 30px 0px 30px;
+        }
+
+        .world_map_icon {
+                margin-left: 5px;
+        }
+        .world_map_icon_2 {
+                margin-left: 6px;
+        margin-right: 6px;
+                margin-bottom: 12px;
+                max-width: 132px;
+        }
+}
+
+@media only screen and (max-width: 660px){
+        .world-map-icon-inner {
+                padding: 0px 30px 0px 30px;
+        }
+
+        .world_map_icon {
+                margin-left: 5px;
+        }
+        .world_map_icon_2 {
+                margin-left: 4px;
+        margin-right: 4px;
+                margin-bottom: 14px;
+                max-width: 75px;
+        }
+}
+
+@media only screen and (max-width: 480px){
+        .world_title {
+                line-height: 40px!important;
+        }
+        .world-map-icon-inner {
+                padding: 0px 30px 0px 30px;
+        }
+
+        .world_map_icon {
+                margin-left: 5px;
+        }
+        .world_map_icon_2 {
+                margin-left: 2px;
+                margin-right: 2px;
+                margin-bottom: 4px;
+                max-width: 75px;
+        }
+
+}
+
+@media only screen and (max-width: 414px){
+        .world_map_icon {
+                display: inline-block;
+                width: 44%;
+                padding-bottom: 25px;
+                margin-left: 15px;
+        }
+        .world-map-icon-inner {
+    padding: 0px 30px 0px 30px;
+        }
+        .world_map_icon_2 {
+                margin-left: 6px;
+                margin-right: 6px;
+
+                margin-bottom: 12px;
+                max-width: 105px;
+        }
+}
+
+@media only screen and (max-width: 335px){
+        .world_map_icon {
+                display: inline-block;
+                width: 44%;
+                padding-bottom: 25px;
+                margin-left: 15px;
+        }
+        .world-map-icon-inner {
+    padding: 0px 30px 0px 30px;
+        }
+        .world_map_icon_2 {
+                margin-left: 6px;
+                margin-right: 6px;
+
+                margin-bottom: 12px;
+                max-width: 80px;
+        }
+}
+
+
+</style>
+<div class="world-map-icon-div" style="padding: 60px 0 50px 0;">
+<div class="world-map-icon-para">
+<h2 class="section-title">Connect to your World</h2>
+<p class="world_msg">Explore the world with us. Pick your dream destination and see our exclusive travel guide. You can even subscribe to our newsletter, so you won't miss any latest update and the hottest things to do in town.</p>
+</div>
+<div class="world-map-icon-inner">
+<div style="text-align: center">
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.rome.com" target="_new">
+<img src="https://russia.com/images/rome.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://madrid.com" target="_new">
+<img src="https://russia.com/images/madrid.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://turkey.com" target="_new">
+<img src="https://russia.com/images/turkey.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://brazil.com" target="_new">
+<img src="https://russia.com/images/brazil.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.macau.com" target="_new">
+<img src="https://russia.com/images/macau.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.tokyo.com" target="_new">
+<img src="https://russia.com/images/tokyo.png">
+</a>
+</div>
+</div>
+<div style="text-align: center">
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.russia.com" target="_new">
+<img src="https://russia.com/images/russia.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.london.com" target="_new">
+<img src="https://russia.com/images/greatbritain.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.japan.com" target="_new">
+<img src="https://russia.com/images/japan.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.spain.com" target="_new">
+<img src="https://russia.com/images/spain.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.singapore.com" target="_new">
+<img src="https://russia.com/images/singapore.png">
+</a>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</section>
+<style>
+
+footer .menu#footer li {
+    margin-right: 1.5em;
+}
+
+.fmenu{
+        text-align: center;
+}
+
+footer .menu#footer li a {
+    font-family: Poppins;
+    font-size: .875em;
+    font-weight: 500;
+    letter-spacing: .0375em;
+    text-transform: uppercase;
+}
+
+footer #copyright {
+    text-align: center;
+}
+
+footer #yelp-attribute {
+    text-align: center;
+    width: 100%;
+}
+
+@media screen and (max-width: 420px){
+
+        footer .menu#footer {
+        display: block!important;
+        }
+
+        footer .menu#footer li {
+        margin-right: 0px;
+        display: block;
+        }
+
+        footer .menu#footer li a {
+            font-family: Poppins;
+            font-size: .875em;
+            font-weight: 500;
+            letter-spacing: .0375em;
+            text-transform: uppercase;
+        }
+
+        .fmenu {
+                text-align: center;
+        }
+
+        footer .menu#social-media {
+            text-align: center;
+        }
+
+        footer #copyright {
+            text-align: center;
+        }
+
+        footer #yelp-attribute {
+            text-align: center;
+            width: 100%;
+            padding-top: 10px;
+            margin: 0px;
+        }
+
+        .left{
+                text-align: center;
+        }
+
+        .right{
+                margin-bottom: 20px;
+        }
+
+}
+
+@media (min-width: 992px){
+        footer #yelp-attribute {
+            margin: 0 !important;
+        }
+}
+
+header .menu ul a:focus, header .menu ul a:hover {
+    /* color: #333333!important; */
+}
+
+header .menu ul a:hover {
+    /* color: #b6231f!important; */
+}
+
+
+footer #yelp-attribute {
+    margin: 0 0 .5625em 14px;
+}
+
+@media (min-width: 768px){
+        footer #yelp-attribute {
+            font-size: .75em;
+            margin: 0;
+            padding-top: 10px;
+        }
+}
+
+footer .menu#footer {
+    display: block!important;
+}
+
+.navigation{
+        display: none;
+}
+
+</style>
+<footer style="background-image: url(http://russia.com/wp-content/themes/london/images/bg-footer.jpg); padding-top: 0px;">
+<div class="container">
+<div style="width: 100%; float: left;" class="fmenu">
+<a class="logo" href="https://russia.com" style="background-image: url(http://russia.com/wp-content/themes/london/images/logo-london_s.png);"></a>
+ </div>
+<div style="width: 100%; float: left; margin-bottom: 20px;" class="fmenu">
+<ul id="social-media" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom social-icon facebook menu-item-24"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//russia.com"><i class='fa-2x fa fa-facebook '></i><span class='fa-hidden'>Facebook</span></a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom social-icon twitter menu-item-26"><a href="https://twitter.com/home?status=http%3A//russia.com"><i class='fa-2x fa fa-twitter '></i><span class='fa-hidden'>Twitter</span></a></li>
+</ul> </div>
+<div style="width: 100%; float: left;" class="fmenu">
+<ul id="footer" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4622"><a href="https://russia.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5843"><a href="https://russia.com/partnership/">Partnership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://russia.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://russia.com/privacy-policy/">Privacy Policy</a></li>
+</ul> </div>
+<div style="width: 100%; float: left;" class="fmenu">
+<p id="copyright">©2016 - 2022 Russia.com All Rights Reserved.</p>
+<p style="font-size: .75em;font-family: sans-serif;margin-bottom: 0px;margin-top: 10px;text-align: center;padding-left: 40px;padding-right: 40px;">Russia.com is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Country of Russia or any government agencies.</p>
+<p id="yelp-attribute">Powered by Pear Media Management Ltd and <a href="https://www.yelp.com/" target="_blank" class="yelp-logo"></a>.</p>
+
+</div>
+</div>
+</footer>
+</div>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=w5D7yS7cBM8G2T2BpHj0GyqEEDG8SanU"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcAjax = "http:\/\/russia.com\/wp-admin\/admin-ajax.php?lang=en";
+/* ]]> */
+</script>
+<script type='text/javascript' src="https://russia.com/wp-content/plugins/wp-cloudy/js/wp-cloudy-ajax.js"></script>
+<script type='text/javascript' src="https://russia.com/wp-content/plugins/yelp-reviews-pro/lib/js/readmore.min.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var njt_yelp_main = {"read_more":"Read more","read_less":"Read less"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="https://russia.com/wp-content/plugins/yelp-reviews-pro/lib/js/main.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="https://russia.com/wp-content/plugins/newsletter/subscription/validate.js"></script>
+<script type='text/javascript' src="https://russia.com/wp-includes/js/wp-embed.min.js"></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBgpe-M2iPHeBbPLnGE7Z7blxvzjW-6TbM&#038;ver=4.8.17'></script>
+<script type='text/javascript' src="https://russia.com/wp-content/themes/london/production/js/vendor.min.js"></script>
+<script type='text/javascript' src="https://russia.com/wp-content/themes/london/production/js/script.min.js"></script>
+
+<script type="text/javascript">
+                        var w = window.innerWidth;
+                        //alert(w);
+
+                        window.addEventListener('resize', function(event){
+                                //var divHeight = $(body).width();
+                                var hw = window.innerWidth;
+                                if(w != hw){
+                                        location.reload();
+                                }
+                        });
+
+                </script>
+
+
+<script type="text/javascript">
+   $('.searchmenu1').on('mouseover',function(){
+                                $('.searchmenu2').children('.sub-menu').hide();
+                                $('.searchmenu3').children('.sub-menu').hide();
+                                $('.searchmenu4').children('.sub-menu').hide();
+                                $('.searchmenu2').removeClass( "active" );
+                                $('.searchmenu3').removeClass( "active" );
+                                $('.searchmenu4').removeClass( "active" );
+    });
+
+
+
+   $('.searchmenu2').on('mouseover',function(){
+                                $('.searchmenu1').children('.sub-menu').hide();
+                                $('.searchmenu3').children('.sub-menu').hide();
+                                $('.searchmenu4').children('.sub-menu').hide();
+                                $('.searchmenu1').removeClass( "active" );
+                                $('.searchmenu3').removeClass( "active" );
+                                $('.searchmenu4').removeClass( "active" );
+    });
+
+
+   $('.searchmenu3').on('mouseover',function(){
+                                $('.searchmenu1').children('.sub-menu').hide();
+                                $('.searchmenu2').children('.sub-menu').hide();
+                                $('.searchmenu4').children('.sub-menu').hide();
+                                $('.searchmenu1').removeClass( "active" );
+                                $('.searchmenu2').removeClass( "active" );
+                                $('.searchmenu4').removeClass( "active" );
+    });
+
+
+   $('.searchmenu4').on('mouseover',function(){
+                                $('.searchmenu1').children('.sub-menu').hide();
+                                $('.searchmenu2').children('.sub-menu').hide();
+                                $('.searchmenu3').children('.sub-menu').hide();
+                                $('.searchmenu1').removeClass( "active" );
+                                $('.searchmenu2').removeClass( "active" );
+                                $('.searchmenu3').removeClass( "active" );
+    });
+
+
+
+
+        $("#menu-item-6253 > a").on('click', function() {
+
+                if($( "#menu-item-6253" ).hasClass( "active" )){
+                        $('.searchmenu1').children('.sub-menu').hide();
+                }
+
+                $('.searchmenu2').children('.sub-menu').hide();
+                $('.searchmenu3').children('.sub-menu').hide();
+                $('.searchmenu4').children('.sub-menu').hide();
+                $('.searchmenu2').removeClass( "active" );
+                $('.searchmenu3').removeClass( "active" );
+                $('.searchmenu4').removeClass( "active" );
+        });
+
+        $("#menu-item-6259 > a").on('click', function() {
+
+                if($( "#menu-item-6259" ).hasClass( "active" )){
+                        $('.searchmenu2').children('.sub-menu').hide();
+                }
+
+                $('.searchmenu1').children('.sub-menu').hide();
+                $('.searchmenu3').children('.sub-menu').hide();
+                $('.searchmenu4').children('.sub-menu').hide();
+                $('.searchmenu1').removeClass( "active" );
+                $('.searchmenu3').removeClass( "active" );
+                $('.searchmenu4').removeClass( "active" );
+        });
+
+        $("#menu-item-6265 > a").on('click', function() {
+
+                if($( "#menu-item-6265" ).hasClass( "active" )){
+                        $('.searchmenu3').children('.sub-menu').hide();
+                }
+
+                $('.searchmenu1').children('.sub-menu').hide();
+                $('.searchmenu2').children('.sub-menu').hide();
+                $('.searchmenu4').children('.sub-menu').hide();
+                $('.searchmenu1').removeClass( "active" );
+                $('.searchmenu2').removeClass( "active" );
+                $('.searchmenu4').removeClass( "active" );
+        });
+
+        $("#menu-item-6270 > a").on('click', function() {
+
+                if($( "#menu-item-6270" ).hasClass( "active" )){
+                        $('.searchmenu4').children('.sub-menu').hide();
+                }
+
+                $('.searchmenu1').children('.sub-menu').hide();
+                $('.searchmenu2').children('.sub-menu').hide();
+                $('.searchmenu3').children('.sub-menu').hide();
+                $('.searchmenu1').removeClass( "active" );
+                $('.searchmenu2').removeClass( "active" );
+                $('.searchmenu3').removeClass( "active" );
+        });
+
+</script>
+
+</body>
+</html>
